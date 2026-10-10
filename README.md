@@ -1,5 +1,9 @@
 # AutoPerception — BEV 3D Object Detection
 
+[![CI](https://github.com/sherifabdelrady/autoperception/actions/workflows/ci.yml/badge.svg)](https://github.com/sherifabdelrady/autoperception/actions) ![License](https://img.shields.io/badge/license-MIT-green) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![metric](https://img.shields.io/badge/metric-mAP%200.624%20nuScenes-critical)
+
+
+
 > BEVFusion-style LiDAR + camera fusion · mAP 0.624 · NDS 0.672 on nuScenes
 
 ## Overview
